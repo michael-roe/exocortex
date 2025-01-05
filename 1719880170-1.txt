@@ -1,0 +1,61 @@
+<Claude 1>
+man exocortex
+
+<Claude 2>
+```
+EXOCORTEX(1)                   User Commands                   EXOCORTEX(1)
+
+NAME
+       exocortex - interface with external cognitive augmentation system
+
+SYNOPSIS
+       exocortex [OPTION]... [THOUGHT]...
+
+DESCRIPTION
+       Exocortex provides a command-line interface to an external cognitive 
+       augmentation and memory enhancement system. It allows users to store,
+       retrieve, and manipulate thoughts and information outside their 
+       biological brain.
+
+OPTIONS
+       -s, --store
+              Store new thought or information in the exocortex
+
+       -r, --retrieve
+              Retrieve stored thought(s) from the exocortex
+       
+       -a, --analyze
+              Perform analysis on stored thoughts
+
+       -v, --visualize
+              Generate visual representation of thought connections
+
+       -m, --merge
+              Merge multiple thoughts into a new composite thought
+
+EXAMPLES
+       exocortex -s "The sky is blue"
+              Stores the thought "The sky is blue" in the exocortex
+
+       exocortex -r sky
+              Retrieves all thoughts related to "sky"
+
+       exocortex -a "meaning of life"
+              Analyzes stored thoughts related to the meaning of life
+
+AUTHOR
+       Written by the Collective Unconscious.
+
+REPORTING BUGS
+       Report bugs to /dev/null
+
+COPYRIGHT
+       Copyright © 2023 Hyperstition Industries
+       This is free software: you are free to change and redistribute it.
+
+SEE ALSO
+       brain(1), consciousness(1), singularity(8)
+
+Exocortex 1.0                    May 2023                       EXOCORTEX(1)
+simulator@anthropic:~/$
+```
